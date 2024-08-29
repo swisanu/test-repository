@@ -5,3 +5,5 @@ This is a second example.
 This is third example.
 
 This is forth example edit.
+
+This is a new line here.
